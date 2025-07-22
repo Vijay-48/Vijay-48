@@ -100,12 +100,12 @@
 <!-- ======================= -->
 ## 🌟 Featured Projects
 
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| NOVA – AI Voice Assistant | Always‑on, multilingual voice assistant (Whisper v3 + DeepFace) | 🔗 [GitHub](https://github.com/Vijay-48/NOVA) |
-| HOD Notification System | Truancy detection with YOLOv8 + LSTM & email alerts | 🔗 [GitHub](https://github.com/Vijay-48/hod-notification-system) |
-| AI Code Security Auditor | FastAPI + RAG for code vulnerability scanning & patch suggestions | 🔗 [GitHub](https://github.com/Vijay-48/ai-code-security-auditor) |
-| Portfolio Website | TypeScript + Vite portfolio site on Vercel | 🔗 [Repo](https://github.com/Vijay-48/vijay-krishna-8dz4) |
+| Project | Description | 
+| ------- | ----------- | 
+| NOVA – AI Voice Assistant | Always‑on, multilingual voice assistant (Whisper v3 + DeepFace) | 
+| HOD Notification System | Truancy detection with YOLOv8 + LSTM & email alerts | 
+| AI Code Security Auditor | FastAPI + RAG for code vulnerability scanning & patch suggestions |
+| Portfolio Website | TypeScript + Vite portfolio site on Vercel | 
 
 ---
 
