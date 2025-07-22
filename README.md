@@ -102,21 +102,10 @@
 
 | Project | Description | 
 | ------- | ----------- | 
-| NOVA – AI Voice Assistant | Always‑on, multilingual voice assistant (Whisper v3 + DeepFace) | 
 | HOD Notification System | Truancy detection with YOLOv8 + LSTM & email alerts | 
 | AI Code Security Auditor | FastAPI + RAG for code vulnerability scanning & patch suggestions |
 | Portfolio Website | TypeScript + Vite portfolio site on Vercel | 
 
----
-
-<!-- ======================= -->
-<!--   LATEST BLOG POSTS     -->
-<!-- ======================= -->
-## 📝 Latest Blog Posts
-
-- [Building a RAG-Powered Chatbot with FastAPI](https://yourblog.com/rag-chatbot)  
-- [Walkthrough: Deploying Mistral-7B on TPUs](https://yourblog.com/mistral-tpu)  
-- [Ethical Considerations in Multimodal AI](https://yourblog.com/ai-ethics)
 
 ---
 
@@ -125,9 +114,9 @@
 <!-- ======================= -->
 ## 🏆 Certificates & Achievements
 
-- ![AWS ML Foundations](https://img.shields.io/badge/AWS-ML%20Foundations-orange)  
-- ![Google Cloud Prompt Engineering](https://img.shields.io/badge/Google%20Cloud-Prompt%20Engineering-blue)  
-- Finalist, Smart India Hackathon 2024  
+- ![AWS ML Foundations]
+- ![Google Cloud Prompt Engineering]
+- Smart India Hackathon 2024  
 - Published: “Decentralized Document Validation System” (IRJMETS)
 
 ---
@@ -138,10 +127,8 @@
 ## 🗣 Testimonials
 
 > “Vijay’s work on the HOD Notification System was instrumental—robust architecture, clear documentation, and innovative use of YOLOv8.”  
-> — Dr. S. Kumar, Project Mentor
 
 > “A natural collaborator with deep AI expertise, Vijay consistently delivers production‐ready code.”  
-> — Jane Doe, Team Lead at Infotact Solutions
 
 ---
 
@@ -150,8 +137,7 @@
 <!-- ======================= -->
 ## 🤝 Open Source & Community
 
-- ⭐ Maintainer, [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
-- 🔧 Contributed to [TensorFlow Models](https://github.com/tensorflow/models) & [Hugging Face Transformers](https://github.com/huggingface/transformers)  
+- ⭐ Maintainer,
 - 🛠 Active in Hyderabad AI & ML Meetups
 
 ---
@@ -202,17 +188,6 @@ Interested in contributing?
 4. Push to the branch (`git push origin feat/YourFeature`)  
 5. Open a Pull Request  
 
-Please follow the [Code of Conduct](https://github.com/Vijay-48/.github/blob/main/CODE_OF_CONDUCT.md).
-
----
-
-<!-- ======================= -->
-<!-- SUPPORT / BUY ME A COFFEE -->
-<!-- ======================= -->
-## ☕ Buy Me a Coffee
-
-If you find my work helpful, feel free to support me:  
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-ff69b4)](https://www.buymeacoffee.com/vijaykrishna)
 
 ---
 
