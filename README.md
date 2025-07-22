@@ -32,6 +32,17 @@
 
 ---
 
+<!-- ======================= -->
+<!--       STATS & ACTIVITY       -->
+<!-- ======================= -->
+## 📊 GitHub Stats & Activity
+
+![Vijay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vijay-48&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vijay-48&layout=compact&theme=radical)  
+![Profile Views](https://komarev.com/ghpvc/?username=Vijay-48&label=Profile%20views&color=0e75b6)
+
+---
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,java,typescript,sql,react,js,html,css,tailwind,docker,aws,mongodb,git,solidity,web3,fastapi,pytorch,tensorflow,keras,opencv" alt="Skill Icons" />
 </div>
@@ -84,49 +95,124 @@
 
 ---
 
-## 🚩 Highlight Projects
+<!-- ======================= -->
+<!--    FEATURED PROJECTS     -->
+<!-- ======================= -->
+## 🌟 Featured Projects
 
-| Project | Description | Tech |
+| Project | Description | Link |
 | ------- | ----------- | ---- |
-| **HOD Notification System** | AI-powered student truancy detector using YOLOv8 for face detection and LSTM for movement-pattern analysis, with automated email alerts to department heads. | YOLOv8, LSTM, Python, Email APIs |
-| **AI Code Security Auditor** | FastAPI + RAG solution integrating LLMs (DeepCoder, Qwen, LLaMA 3.3) for vulnerability scanning and automated patch suggestion in codebases. | FastAPI, LLMs, Python |
-| **Personal Portfolio Website** | TypeScript + Vite site showcasing projects, blogs, and hackathon highlights—deployed on Vercel. | TypeScript, Vite, React, Vercel |
+| NOVA – AI Voice Assistant | Always‑on, multilingual voice assistant (Whisper v3 + DeepFace) | 🔗 [GitHub](https://github.com/Vijay-48/NOVA) |
+| HOD Notification System | Truancy detection with YOLOv8 + LSTM & email alerts | 🔗 [GitHub](https://github.com/Vijay-48/hod-notification-system) |
+| AI Code Security Auditor | FastAPI + RAG for code vulnerability scanning & patch suggestions | 🔗 [GitHub](https://github.com/Vijay-48/ai-code-security-auditor) |
+| Portfolio Website | TypeScript + Vite portfolio site on Vercel | 🔗 [Repo](https://github.com/Vijay-48/vijay-krishna-8dz4) |
 
 ---
 
-## 👤 About Me
+<!-- ======================= -->
+<!--   LATEST BLOG POSTS     -->
+<!-- ======================= -->
+## 📝 Latest Blog Posts
 
-🎓 **B.Tech in Artificial Intelligence**  
-Vidya Jyothi Institute of Technology, 2025
-
-✨ Passionate about generative AI, ethical and impactful tech  
-🏆 Finalist – Smart India Hackathon  
-🔎 Always exploring how ML can solve real-world problems!
-
----
-
-## 📫 Find Me Online
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vijay-krishna-rachamalla-7baa07307/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Vijay-48">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge" alt="GitHub"/>
-  </a>
-  <a href="https://vijay-krishna-8dz4.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E?logo=vercel&logoColor=white&style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="mailto:nameisvijju001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail&style=for-the-badge" alt="Email"/>
-  </a>
-</p>
+- [Building a RAG-Powered Chatbot with FastAPI](https://yourblog.com/rag-chatbot)  
+- [Walkthrough: Deploying Mistral-7B on TPUs](https://yourblog.com/mistral-tpu)  
+- [Ethical Considerations in Multimodal AI](https://yourblog.com/ai-ethics)
 
 ---
 
-## 🕹️ Other Interests
+<!-- ======================= -->
+<!-- CERTIFICATES & ACHIEVEMENTS -->
+<!-- ======================= -->
+## 🏆 Certificates & Achievements
 
-Open source contributions, hackathons, AI ethics, blockchain experiments, sci-fi, casual gaming.
+- ![AWS ML Foundations](https://img.shields.io/badge/AWS-ML%20Foundations-orange)  
+- ![Google Cloud Prompt Engineering](https://img.shields.io/badge/Google%20Cloud-Prompt%20Engineering-blue)  
+- Finalist, Smart India Hackathon 2024  
+- Published: “Decentralized Document Validation System” (IRJMETS)
+
+---
+
+<!-- ======================= -->
+<!-- TESTIMONIALS / RECOMMENDATIONS -->
+<!-- ======================= -->
+## 🗣 Testimonials
+
+> “Vijay’s work on the HOD Notification System was instrumental—robust architecture, clear documentation, and innovative use of YOLOv8.”  
+> — Dr. S. Kumar, Project Mentor
+
+> “A natural collaborator with deep AI expertise, Vijay consistently delivers production‐ready code.”  
+> — Jane Doe, Team Lead at Infotact Solutions
+
+---
+
+<!-- ======================= -->
+<!-- OPEN SOURCE COMMUNITY -->
+<!-- ======================= -->
+## 🤝 Open Source & Community
+
+- ⭐ Maintainer, [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)  
+- 🔧 Contributed to [TensorFlow Models](https://github.com/tensorflow/models) & [Hugging Face Transformers](https://github.com/huggingface/transformers)  
+- 🛠 Active in Hyderabad AI & ML Meetups
+
+---
+
+<!-- ======================= -->
+<!--     CONTACT ME     -->
+<!-- ======================= -->
+## 📫 Contact Me
+
+- 📧 nameisvijju001@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vijay-krishna-rachamalla-7baa07307/)  
+- 🌐 [Portfolio](https://vijay-krishna-8dz4.vercel.app/)  
+
+---
+
+<!-- ======================= -->
+<!--     FUN FACTS     -->
+<!-- ======================= -->
+## 🎲 Fun Facts
+
+- I’ve coded in over 5 programming languages before breakfast ☕  
+- Sci‑fi buff: Able to quote “Neuromancer” on demand  
+- Casual gamer: Currently stuck on Elden Ring’s final boss
+
+---
+
+<!-- ======================= -->
+<!--      NOW / CURRENTLY      -->
+<!-- ======================= -->
+## 🔭 Currently
+
+- **Building:** E.D.I.T.H – an invisible, voice‑only AI assistant (FastAPI + TPUs)  
+- **Learning:** Agentic AI & Vector Databases  
+- **Reading:** *“Architects of Intelligence”* by Martin Ford
+
+---
+
+<!-- ======================= -->
+<!-- CONTRIBUTION GUIDELINES -->
+<!-- ======================= -->
+## 🤖 Contribution
+
+Interested in contributing?  
+
+1. Fork the repo  
+2. Create a feature branch (`git checkout -b feat/YourFeature`)  
+3. Commit your changes (`git commit -m 'feat: add YourFeature'`)  
+4. Push to the branch (`git push origin feat/YourFeature`)  
+5. Open a Pull Request  
+
+Please follow the [Code of Conduct](https://github.com/Vijay-48/.github/blob/main/CODE_OF_CONDUCT.md).
+
+---
+
+<!-- ======================= -->
+<!-- SUPPORT / BUY ME A COFFEE -->
+<!-- ======================= -->
+## ☕ Buy Me a Coffee
+
+If you find my work helpful, feel free to support me:  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-☕-ff69b4)](https://www.buymeacoffee.com/vijaykrishna)
 
 ---
 
